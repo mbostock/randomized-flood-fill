@@ -1,0 +1,10 @@
+{
+  "name": "randomized-flood-fill",
+  "version": "0.0.3",
+  "license": "ISC",
+  "module": "index",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://bost.ocks.org/mike"
+  }
+}
